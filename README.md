@@ -8,6 +8,7 @@ The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0-9
 
 ## Neural Network Model
 Include the neural network model diagram.
+<img width="832" height="648" alt="image" src="https://github.com/user-attachments/assets/faba31f6-006a-4d8b-9d36-595577f01929" />
 
 
 ## DESIGN STEPS
